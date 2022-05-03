@@ -54,5 +54,19 @@ cat cmdline
 vim/tmp/test.txt
 ```
 
+### LInk to the current working directory with the process 
+
+```
+root@node155:/proc/1557120/cwd# ls ---? it will show the same content from where it was originally started 
+
+```
+
+### list of Env variables which process can access and use 
+
+```
+root@node155:/proc/1557120# cat environ 
+SHELL=/bin/bashPWD=/tmpLOGNAME=fireXDG_SESSION_TYPE=ttyMOTD_SHOWN=pamHOME=/home/fireLANG=C.UTF-8LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or
+```
+
 
 
