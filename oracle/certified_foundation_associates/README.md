@@ -14,5 +14,47 @@
 
 <img src="fl1.png">
 
+# IAM 
+
+### More info 
+
+<img src="iam.png">
+
+### how anybody can access OCI -- Identity domain - groups - users - RBAC - compartment - resources 
+
+<img src="id.png">
+
+### Every Resources in OCI is having Identity 
+
+<img src="resource_id.png">
+
+### example of Resources 
+
+<img src="rsdemo.png">
+
+## Compartment 
+
+### root and other compartment 
+
+<img src="cmp.png">
+
+### resources can be moved from one compartment to others 
+
+<img src="movecm.png">
+
+### Resources from Multiple regions can be in same compartment 
+
+<img src="cmm.png">
+
+### Note: compartment can be nested at 6 level 
+
+### compartments can have quotas and budget restrictions 
+
+<img src="restrict.png">
+
+
+
+
+
 
 
