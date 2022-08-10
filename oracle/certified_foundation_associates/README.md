@@ -52,6 +52,16 @@
 
 <img src="restrict.png">
 
+## Tenancy -- is like a new account 
+
+<img src="tenancy.png">
+
+### some policies to OCI-admin 
+
+<img src="pol.png">
+
+
+
 
 
 
