@@ -4,7 +4,7 @@
 
 ### Question 1 
 
-<img src="q1.png">
+<img src="images/q1.png">
 
 ### question 2 
 
