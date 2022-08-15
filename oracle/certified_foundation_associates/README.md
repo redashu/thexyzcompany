@@ -1,64 +1,64 @@
 ### OCI platform Devision 
 
-<img src="plat.png">
+<img src="images/plat.png">
 
 ### Regions - availabilty zone 
 
-<img src="region.png">
+<img src="images/region.png">
 
 ### fault domains - are logical DC within AV 
 
-<img src="fault.png">
+<img src="images/fault.png">
 
 ### fault domains have logical DC within the AV 
 
-<img src="fl1.png">
+<img src="images/fl1.png">
 
 # IAM 
 
 ### More info 
 
-<img src="iam.png">
+<img src="images/iam.png">
 
 ### how anybody can access OCI -- Identity domain - groups - users - RBAC - compartment - resources 
 
-<img src="id.png">
+<img src="images/id.png">
 
 ### Every Resources in OCI is having Identity 
 
-<img src="resource_id.png">
+<img src="images/resource_id.png">
 
 ### example of Resources 
 
-<img src="rsdemo.png">
+<img src="images/rsdemo.png">
 
 ## Compartment 
 
 ### root and other compartment 
 
-<img src="cmp.png">
+<img src="images/cmp.png">
 
 ### resources can be moved from one compartment to others 
 
-<img src="movecm.png">
+<img src="images/movecm.png">
 
 ### Resources from Multiple regions can be in same compartment 
 
-<img src="cmm.png">
+<img src="images/cmm.png">
 
 ### Note: compartment can be nested at 6 level 
 
 ### compartments can have quotas and budget restrictions 
 
-<img src="restrict.png">
+<img src="images/restrict.png">
 
 ## Tenancy -- is like a new account 
 
-<img src="tenancy.png">
+<img src="images/tenancy.png">
 
 ### some policies to OCI-admin 
 
-<img src="pol.png">
+<img src="images/pol.png">
 
 
 
