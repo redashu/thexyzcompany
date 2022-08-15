@@ -61,6 +61,33 @@
 <img src="images/pol.png">
 
 
+# Networking in cloud 
+
+## OCI -- VCN ---{Virtual Cloud Network}
+
+### Introduction 
+
+<img src="images/vcn.png">
+
+### NAT gateway -- only for outbound traffic 
+
+<img src="images/nat.png">
+
+## gateways in VCN 
+
+### NAT gateway
+<p> Only for outbound connection for compute instances </p>
+### Internat gateway 
+<p> If OCI instances ingress and egress connection </p>
+### service gateway
+
+<p> If OCI Instances want to access OCI public services like OBject storage via secure connection </p>
+
+<img src="images/gateway.png">
+
+###  dynamic gateway routing 
+
+<p> use to do routing on non-internet target either cloud of on primise systems </p>
 
 
 
