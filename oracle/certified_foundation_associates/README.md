@@ -99,7 +99,7 @@
 
 ### communication between two VCN 
 
-<img src="images/vnc-comm.png">
+<img src="images/vcn-comm.png">
 
 ## Security in VCN 
 
