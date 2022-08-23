@@ -91,6 +91,28 @@
 
 <img src="images/dynamic.png">
 
+## Routing table --
+
+### for network packet flow control 
+
+<img src="images/route.png">
+
+### communication between two VCN 
+
+<img src="images/vnc-comm.png">
+
+## Security in VCN 
+
+### security list  :- they are associated with SUbnets 
+
+<img src="images/sec-list.png">
+
+
+### network security groups :- ONly applies to Virtual NIC 
+
+<img src="images/nsg.png">
+
+
 
 
 
